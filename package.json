@@ -1,6 +1,7 @@
 {
   "name": "angular-webpack-seed",
   "version": "0.2.0",
+  "license": "Apache-2.0",
   "description": "Yet another example project with AngularJS and webpack",
   "repository": "https://github.com/britter/angular-webpack-seed",
   "scripts": {
