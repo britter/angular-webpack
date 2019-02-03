@@ -1,6 +1,8 @@
 AngularJS + webpack Project Template
 =======================================
 
+**NOTE:** [Angular.js](https://angularjs.org) has been replaced by [Angular](https://angular.io). Please consider using Angular instead of Angular.js.
+
 This is a small example/seed project for using AngularJS with webpack. It demonstrates how to structure code by using CommonJS modules together with AngularJS' dependency injection mechanism.
 
 An accompanying blog post can be found at tba.
